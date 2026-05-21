@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## v0.6.1
+
+[compare changes](https://github.com/comarkdown/vscode-comark/compare/v0.6.0...v0.6.1)
+
+### 🩹 Fixes
+
+- Improve UX of VS Code icon ([#90](https://github.com/comarkdown/vscode-comark/pull/90))
+
+### 🏡 Chore
+
+- Upgrade to pnpm 11 ([#91](https://github.com/comarkdown/vscode-comark/pull/91))
+- Update allowBuilds ([da70aac](https://github.com/comarkdown/vscode-comark/commit/da70aac))
+
+### ❤️ Contributors
+
+- Sébastien Chopin ([@atinux](https://github.com/atinux))
+
 ## v0.6.0
 
 [compare changes](https://github.com/comarkdown/vscode-comark/compare/v0.5.0...v0.6.0)
