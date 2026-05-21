@@ -1,3 +1,7 @@
 shamefullyHoist: true
 nodeLinker: hoisted
 minimumReleaseAge: 2880
+allowBuilds:
+  '@vscode/vsce-sign': true
+  esbuild: true
+  keytar: false
